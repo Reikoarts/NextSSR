@@ -1,0 +1,17 @@
+{
+  "name": "ssr_react_intro_app_router_no_v2ssr_enable",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.10",
+    "react": "^18",
+    "react-dom": "^18",
+    "styled-components": "^6.1.13"
+  }
+}
